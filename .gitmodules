@@ -1,3 +1,6 @@
 [submodule "DMX4Live"]
 	path = DMX4Live
 	url = https://github.com/AdrianArtacho/DMX4Live.git
+[submodule "DMX-pd"]
+	path = DMX-pd
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/dmx-control.git
