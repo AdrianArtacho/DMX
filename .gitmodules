@@ -10,3 +10,6 @@ url=https://github.com/AdrianArtacho/cc2osc.git
 [submodule "PERDIX"]
 	path = PERDIX
 url=https://github.com/AdrianArtacho/PERDIX.git
+[submodule "qlc-files"]
+	path = qlc-files
+	url = https://github.com/AdrianArtacho/qlc-files.git
