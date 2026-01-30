@@ -7,3 +7,6 @@ url=https://github.com/AdrianArtacho/DMX-pd.git
 [submodule "cc2osc"]
 	path = cc2osc
 url=https://github.com/AdrianArtacho/cc2osc.git
+[submodule "PERDIX"]
+	path = PERDIX
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/perdix_.git
