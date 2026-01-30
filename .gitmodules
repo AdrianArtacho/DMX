@@ -3,4 +3,7 @@
 	url = https://github.com/AdrianArtacho/DMX4Live.git
 [submodule "DMX-pd"]
 	path = DMX-pd
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/dmx-control.git
+url=https://github.com/AdrianArtacho/DMX-pd.git
+[submodule "cc2osc"]
+	path = cc2osc
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/cc2osc.git
