@@ -13,3 +13,6 @@ url=https://github.com/AdrianArtacho/PERDIX.git
 [submodule "qlc-files"]
 	path = qlc-files
 	url = https://github.com/AdrianArtacho/qlc-files.git
+[submodule "workshop"]
+	path = workshop
+	url = https://github.com/AdrianArtacho/DMXworkshop.git
