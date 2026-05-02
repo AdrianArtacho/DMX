@@ -16,3 +16,6 @@ url=https://github.com/AdrianArtacho/PERDIX.git
 [submodule "workshop"]
 	path = workshop
 	url = https://github.com/AdrianArtacho/DMXworkshop.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
