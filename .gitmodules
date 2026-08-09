@@ -22,3 +22,6 @@ url=https://github.com/AdrianArtacho/PERDIX.git
 [submodule "profiles/DMX-WLED8"]
 	path = profiles/DMX-WLED8
 	url = https://github.com/AdrianArtacho/DMX-WLED8.git
+[submodule "profiles/DMX-MS11"]
+	path = profiles/DMX-MS11
+	url = https://github.com/AdrianArtacho/DMX-MS11.git
