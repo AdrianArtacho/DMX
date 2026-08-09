@@ -1,17 +1,17 @@
 [submodule "DMX4Live"]
-	path = DMX4Live
+	path = code/DMX4Live
 	url = https://github.com/AdrianArtacho/DMX4Live.git
 [submodule "DMX-pd"]
-	path = DMX-pd
+	path = code/DMX-pd
 url=https://github.com/AdrianArtacho/DMX-pd.git
 [submodule "cc2osc"]
-	path = cc2osc
+	path = code/cc2osc
 url=https://github.com/AdrianArtacho/cc2osc.git
 [submodule "PERDIX"]
-	path = PERDIX
+	path = code/PERDIX
 url=https://github.com/AdrianArtacho/PERDIX.git
 [submodule "qlc-files"]
-	path = qlc-files
+	path = code/qlc-files
 	url = https://github.com/AdrianArtacho/qlc-files.git
 [submodule "workshop"]
 	path = workshop
