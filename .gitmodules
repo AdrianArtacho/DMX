@@ -11,7 +11,7 @@ url=https://github.com/AdrianArtacho/cc2osc.git
 	path = code/PERDIX
 url=https://github.com/AdrianArtacho/PERDIX.git
 [submodule "qlc-files"]
-	path = code/qlc-files
+	path = profiles/qlc-files
 	url = https://github.com/AdrianArtacho/qlc-files.git
 [submodule "workshop"]
 	path = workshop
